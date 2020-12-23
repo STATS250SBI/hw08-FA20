@@ -1,0 +1,66 @@
+---
+title: "STATS 250: Homework 8"
+author: "Homework Team"
+date: "November 6, 2020"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_collapsed: true
+    theme: lumen
+---
+  
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+if (!require(checkmate))
+  install.packages('checkmate')
+source("plotT.R")
+```
+
+### Question 4
+The data can be found in `votingtimes.csv`, and you will need to load it into RStudio. The instructions for this question can be found on course.work.
+
+```{r Q4a, error = T}
+# Replace this comment with your code or add it to the next line
+
+```
+
+```{r Q4b, error = T}
+# Replace this comment with your code or add it to the next line
+
+```
+
+```{r Q4c, error = T}
+# Replace this comment with your code or add it to the next line
+
+```
+
+### Question 5
+The data can be found in `statssalaries.csv`, and you will need to load it into RStudio. The instructions for this question can be found on course.work.
+
+```{r Q5b, error = T}
+# Replace this comment with your code or add it to the next line
+
+```
+
+### Extra spot for work
+Here are a few extra chunks if you need it to work on hw08.
+
+```{r hw08work1, error = T}
+# Replace this comment with your code or add it to the next line
+
+```
+
+```{r hw08work2, error = T}
+# Replace this comment with your code or add it to the next line
+
+```
+
+```{r hw08work3, error = T}
+# Replace this comment with your code or add it to the next line
+
+```
+
+## Wrapping Up
+
+Make sure that you submit the appropriate output from this RStudio Project to the corresponding questions on course.work.
